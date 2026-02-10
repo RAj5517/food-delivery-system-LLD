@@ -32,6 +32,9 @@ The expectation is:
 - Scope must be **intentionally narrowed**
 
 ---
+![alt text](image.png)
+---
+
 
 ## 3. First Design Question – What are the “views”?
 
@@ -55,7 +58,6 @@ We design **domain entities and aggregates**.
 
 ---
 
-![alt text](image.png)
 
 ## 4. Scope Decision – Which perspective to design?
 
